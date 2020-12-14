@@ -1,4 +1,4 @@
-## José Fernando Höwer Barbosa - Teacher, Soft Engineer [@UpLeveled](https://upleveled.io/) 
+### José Fernando Höwer Barbosa - Teacher and Soft Engineer [@UpLeveled](https://upleveled.io/) 
 
 ### Hi there 👋
 
