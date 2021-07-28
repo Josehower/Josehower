@@ -1,5 +1,8 @@
 ### José Fernando Höwer Barbosa - Teacher and Software Engineer [@UpLeveled](https://upleveled.io/) 
 
+
+<img src="https://user-images.githubusercontent.com/61600906/127288650-caf6ec52-807a-48c3-aee0-d1f48dbfe450.jpg" width="300" />
+
 ### Hi there 👋
 
 I am a Colombian-Austrian based in Vienna, passionate about programming.
