@@ -1,5 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/61600906/206196857-d8098991-e644-4a19-a875-df26ebfeacf3.png" width="300" />
+<br/>
+ <sub>Art by <a href="https://github.com/judyhnh">@judyhnh</a></sub>
 </p>
 
 ### José Fernando Höwer Barbosa - Teacher and Software Engineer [@UpLeveled](https://upleveled.io/) 
@@ -26,4 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Art by @judyhnh
