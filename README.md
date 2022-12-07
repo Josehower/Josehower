@@ -1,5 +1,7 @@
 <p align="center">
+
 <img src="https://user-images.githubusercontent.com/61600906/127288650-caf6ec52-807a-48c3-aee0-d1f48dbfe450.jpg" width="300" />
+
 </p>
 
 ### José Fernando Höwer Barbosa - Teacher and Software Engineer [@UpLeveled](https://upleveled.io/) 
@@ -25,3 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![jose](https://user-images.githubusercontent.com/61600906/206196857-d8098991-e644-4a19-a875-df26ebfeacf3.png)
