@@ -4,14 +4,14 @@
  <sub>Art by <a href="https://github.com/judyhnh">@judyhnh</a></sub>
 </p>
 
-### José Fernando Höwer Barbosa - Teacher and Software Engineer [@UpLeveled](https://upleveled.io/) 
+### José Fernando Höwer Barbosa - Fullstack Software Engineer
 ### Hi there 👋
 
 I am a Colombian-Austrian based in Vienna, passionate about programming.
 
 I studied Bachelor of Music in Colombia, and I have a background as a teacher of students of different ages.
 
-After taking the opportunity to learn at UpLeveled.io I have managed not only to direct my professional path towards something that makes me feel fulfilled and happy but also to be able to help others to follow their passion now as an official member of the team.
+After taking the opportunity to learn at UpLeveled.io I have managed not only to direct my professional path towards something that makes me feel fulfilled and happy but also to be able to help others with my daily work.
 
 <!--
 **Josehower/Josehower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
