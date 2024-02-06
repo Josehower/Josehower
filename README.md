@@ -11,7 +11,7 @@ I am a Colombian-Austrian based in Vienna, passionate about programming.
 
 I studied Bachelor of Music in Colombia, and I have a background as a teacher of students of different ages.
 
-After taking the opportunity to learn at UpLeveled.io I have managed not only to direct my professional path towards something that makes me feel fulfilled and happy but also to be able to help others with my daily work.
+After taking the opportunity to learn programing I have managed not only to direct my professional path towards something that makes me feel fulfilled and happy but also to be able to help others with my daily work.
 
 <!--
 **Josehower/Josehower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
